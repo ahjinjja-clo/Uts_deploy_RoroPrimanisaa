@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Uts_deploy_RoroPrimanisaa.git/static/css/main.762f0d74.css",
-    "main.js": "/Uts_deploy_RoroPrimanisaa.git/static/js/main.24994f94.js",
+    "main.js": "/Uts_deploy_RoroPrimanisaa.git/static/js/main.80b4a0cc.js",
     "index.html": "/Uts_deploy_RoroPrimanisaa.git/index.html",
     "main.762f0d74.css.map": "/Uts_deploy_RoroPrimanisaa.git/static/css/main.762f0d74.css.map",
-    "main.24994f94.js.map": "/Uts_deploy_RoroPrimanisaa.git/static/js/main.24994f94.js.map"
+    "main.80b4a0cc.js.map": "/Uts_deploy_RoroPrimanisaa.git/static/js/main.80b4a0cc.js.map"
   },
   "entrypoints": [
     "static/css/main.762f0d74.css",
-    "static/js/main.24994f94.js"
+    "static/js/main.80b4a0cc.js"
   ]
 }
